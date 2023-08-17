@@ -127,7 +127,7 @@ round(3.712, 1)
 3.7
 ```
 
-## Functions attached to objects are called methods
+## Functions attached to objects are called methods.
 
 - Functions take another form that will be common in the pandas episodes.
 - Methods have parentheses like functions, but come after the variable.
